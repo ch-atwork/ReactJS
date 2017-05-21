@@ -1,5 +1,5 @@
 # ReactJS Test
-##How to start the project
+## How to start the project
 Clone the ReactJS repo onto your machine
 From command line browse to the ReactJS folder. 
 
