@@ -6,8 +6,7 @@ class App extends React.Component {
   render () {
     return(
 	<div>
-		<p> BOB JOHNSON!</p>
-		<div> This is a test of multilines </div>
+		<p> BOB JOHNSON'S Used Car Emporium</p>
 		<AwesomeComponent />
 	</div>
 	);
